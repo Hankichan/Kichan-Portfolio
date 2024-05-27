@@ -6,13 +6,13 @@ body {
 
 #pl {
   position: fixed;
-  left: 3%;
-  /* right: 10%;  */
+  left: 35%;
+  /* right: 50%; */ 
   /* bottom: 50%; */
-  top: 3%;
-  color: #ff0000;
+  top: 70%; 
+  color: #ffff00;
   text-decoration: none;
-  font-size: 2.5rem;
+  font-size: 6rem;
   /* font-size: 32px; */
   /* font-family: 'Times New Roman', Times, serif; */
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
